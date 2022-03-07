@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aec1721e-855f-4086-ad7d-953b68846004" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22aGrOE1ggOkw2wAqcpctQCJXXT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Symbat\WebstormProjects\untitled\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="aboba.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio1.html/aboba.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.aboba.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec1721e-855f-4086-ad7d-953b68846004" name="Changes" comment="" />
+      <created>1640068484197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640068484197</updated>
+      <workItem from="1640068485624" duration="16000" />
+      <workItem from="1640068783563" duration="29000" />
+      <workItem from="1640242455410" duration="1287000" />
+      <workItem from="1640843558883" duration="1796000" />
+      <workItem from="1642350872505" duration="15324000" />
+      <workItem from="1642370225766" duration="3000" />
+      <workItem from="1642385839909" duration="33725000" />
+      <workItem from="1642483792915" duration="1281000" />
+      <workItem from="1642603680239" duration="3531000" />
+      <workItem from="1642608477104" duration="270000" />
+      <workItem from="1642608948424" duration="13000" />
+      <workItem from="1642609535551" duration="360000" />
+      <workItem from="1642609924079" duration="219000" />
+      <workItem from="1642611387748" duration="1148000" />
+      <workItem from="1642612580333" duration="1097000" />
+      <workItem from="1642613752533" duration="810000" />
+      <workItem from="1642614626367" duration="695000" />
+      <workItem from="1642616725667" duration="11237000" />
+      <workItem from="1642628104245" duration="83000" />
+      <workItem from="1642669823548" duration="121000" />
+      <workItem from="1642670146379" duration="1076000" />
+      <workItem from="1643381574981" duration="12583000" />
+      <workItem from="1643442678952" duration="2443000" />
+      <workItem from="1643645416206" duration="3904000" />
+      <workItem from="1643689967395" duration="10438000" />
+      <workItem from="1643836045578" duration="4150000" />
+      <workItem from="1643871170269" duration="510000" />
+      <workItem from="1645296749912" duration="16805000" />
+      <workItem from="1645341244982" duration="9083000" />
+      <workItem from="1645507928614" duration="3856000" />
+      <workItem from="1646298056089" duration="600000" />
+      <workItem from="1646557659353" duration="1071000" />
+      <workItem from="1646558762582" duration="844000" />
+      <workItem from="1646559691926" duration="24591000" />
+      <workItem from="1646608182084" duration="17000" />
+      <workItem from="1646624310562" duration="15868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main.js</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

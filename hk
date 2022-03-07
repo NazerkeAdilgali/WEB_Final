@@ -1,0 +1,62 @@
+
+<a href="default.asp">
+<img src="img/web.jpg" alt="logo" style="width:200px;height:200px;">
+</a>
+<ul>
+    <li><a href="#">Portfolio</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+</ul>
+<h1 style="font-size:200%; text-align:center;">Services</h1>
+<p>Modify Interiors is an Astana based boutique design studio that offers high-end residential interior design/renovation services. Design services are priced on a flat fee scale based on the scope of work. In addition, all trade discounts are passed on to the client with no mark-up.</p>
+<hr>
+<p>There are essentially three stages to the process:</p>
+
+<p>IMAGINE•</p>
+<p>initial consultation to discuss and evaluate the overall vision for your space</p>
+<hr>
+<p>PLAN•</p>
+<p>prepare a detailed proposal based on our initial consultation</p>
+<hr>
+<p>CREATE•</p>
+<p>execute the plan to create the space you imagined</p>
+
+ul {
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем отступы*/
+    padding-left: 0; /*убираем отступы*/
+    margin-top:25px; /*делаем отступ сверху*/
+}
+a {
+    text-decoration: none; /*убираем подчеркивание текста ссылок*/
+    background:#30A8E6; /*добавляем фон к пункту меню*/
+    color:#fff; /*меняем цвет ссылок*/
+    padding:10px; /*добавляем отступ*/
+    font-family: arial; /*меняем шрифт*/
+    border-radius:4px; /*добавляем скругление*/
+    -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
+    -o-transition: all 0.3s 0.01s ease;
+    -webkit-transition: all 0.3s 0.01s ease;
+}
+a:hover {
+    background:#1C85BB;/*добавляем эффект при наведении*/
+}
+li {
+    float:left; /*Размещаем список горизонтально для реализации меню*/
+    margin-right:5px; /*Добавляем отступ у пунктов меню*/
+
+}
+
+
+<a href="#">
+                <img src="img/logo.jpg" alt="">
+            </a>
+
+            font-size: 30px;
+                font-weight: 700;
+                color: black;
+                font-family: 'Dancing Script', cursive;
+                letter-spacing: 9px;
+                border-radius: 400px;
+                padding-top: 70px
